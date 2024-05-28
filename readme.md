@@ -7,4 +7,6 @@ utilização de Git em conjunto com o GitHub
 
 ##Autores
 
-Desenvolvido pela zuleika
+
+Desenvolvido pela zuleika e pelo Pafúncio
+
