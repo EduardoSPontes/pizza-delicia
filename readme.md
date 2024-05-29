@@ -1,11 +1,11 @@
-#Site  Pizza Delícia
+# Site  Pizza Delícia
 
-##Sobre o site
+## Sobre o site
 
 Este repositório serve apenas como teste para exercícos de 
 utilização de Git em conjunto com o GitHub
 
-##Autores
+## Autores
 
 
 Desenvolvido pela zuleika e pelo Pafúncio
